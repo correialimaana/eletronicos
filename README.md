@@ -38,7 +38,7 @@
 
         <p><b>Para o Dia dos Pais</b></p>
 
-        <img src="lklk" alt="" width="200" height="300">
+        <img src="divulgaçao.png" alt="" width="200" height="300">
 
     </center>
     <hr>
@@ -46,25 +46,18 @@
 
     <center>
         <h2>Ofertas para essa semana:</h2>
-        <img src="kuumara.webp" alt="" height="300">
+        <img src="lklk.png" alt="" height="300">
         <p><b>
 
-                Teclado Redragon Kumara;
+                celulares ;
                 <br>
-                Preço: R$290,90
+                até: R$900,00
 
             </b></p>
     </center>
     <br><br><br>
 
-    <center>
-        <img src="cobra.jpg" alt="" height="200">
-        <p><b>
-                Mouse Redragon Cobra;
-                <br>
-                Preço: R$125,90
-            </b></p>
-    </center>
+
 
 
 
@@ -73,11 +66,11 @@
         <center>
             <h2>
                 <p>Faça seu <a
-                        href="https://docs.google.com/forms/d/1NxucD60M7y0HBapoqPYROF2bkKVNmxCRJMpnRoTjAaA/edit?usp=forms_home&ths=true">Orçamento</a>
+                        href="https://docs.google.com/forms/d/e/1FAIpQLScbcURegusS4s8bnk8367Wa985QUbHhdPPsAKxxcjuVpPfcBA/viewform?usp=sf_link">Orçamento</a>
                 </p>
 
                 <p>Começe pelo seu <a
-                        href="https://docs.google.com/forms/d/1PVJVm8GLF-aHhplCqvK8yFn0-pXoM1c0jjN3eV8K0k0/edit">Pré-Cadastro</a>
+                        href="https://docs.google.com/forms/d/e/1FAIpQLScEoRFS4w50aL16ap8uLS9H9TyfS-_uJj5YTFca2DLyTRVFTQ/viewform?usp=sf_link">Pré-Cadastro</a>
                 </p>
             </h2>
         </center>
@@ -86,10 +79,10 @@
 
     <br><br>
 
-    <font color="purple">
+    <font color="blue">
         <footer>
             <center>
-                <h1>Rua Atanázio Pires Nro 184 - Dois Vizinhos Pr. Fone: (46) 98826-9130; E-mail: guilherme.meurer18@escola.pr.gov.br</h1>
+                <h1>Rua Andorinhas- centro n°175 - Dois Vizinhos Pr. Fone: (46) 98834-2311; E-mail: correia.lima.ana@escola.pr.gov.br</h1>
             </center>
         </footer>
     </font>
