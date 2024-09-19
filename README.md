@@ -26,7 +26,7 @@
 
     <header>
         <center>
-            <h1>Meurer Eletronicos</h1>
+            <h1>Yasha eletrônicos</h1>
             <img src="image (2).png" alt="" height="200">
         </center>
     </header>
@@ -38,7 +38,7 @@
 
         <p><b>Para o Dia dos Pais</b></p>
 
-        <img src="Meurer Eletrônicos.jpg" alt="" width="200" height="300">
+        <img src="lklk" alt="" width="200" height="300">
 
     </center>
     <hr>
