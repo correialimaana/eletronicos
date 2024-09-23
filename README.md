@@ -33,10 +33,10 @@
 
     <br><br>
     <center>
-        <h2>Confira uma das nossas ofertas:</h2>
+        
 
 
-        <p><b>Para o Dia dos Pais</b></p>
+        
 
         <img src="divulgaçao.png" alt="" width="200" height="300">
 
